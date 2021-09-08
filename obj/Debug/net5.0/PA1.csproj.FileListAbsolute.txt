@@ -1,0 +1,5 @@
+/Users/rachel/Desktop/MIS 321 VSC/PA1/obj/Debug/net5.0/PA1.csproj.AssemblyReference.cache
+/Users/rachel/Desktop/MIS 321 VSC/PA1/obj/Debug/net5.0/PA1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rachel/Desktop/MIS 321 VSC/PA1/obj/Debug/net5.0/PA1.AssemblyInfoInputs.cache
+/Users/rachel/Desktop/MIS 321 VSC/PA1/obj/Debug/net5.0/PA1.AssemblyInfo.cs
+/Users/rachel/Desktop/MIS 321 VSC/PA1/obj/Debug/net5.0/PA1.csproj.CoreCompileInputs.cache
